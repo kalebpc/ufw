@@ -3,5 +3,5 @@
 <ol>
   <li>Clone repository</li>
   <li> $ chmod +x ufw/install.sh</li>
-  <li> $ ./ufw/install</li>
+  <li> $ sudo ./ufw/install.sh</li>
 </ol>
