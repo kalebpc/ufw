@@ -1,4 +1,7 @@
 # ufw_setup
 
-1. Save install.sh script as shell file 'choose_file_name.sh'
-2. Run file as 'sudo sh choose_file_name.sh'
+<ol>
+  <li>Clone repository</li>
+  <li>chmod +x ufw/install.sh</li>
+  <li>./ufw/install</li>
+</ol>
